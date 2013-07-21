@@ -1,0 +1,9 @@
+Package: com.linusyang.ctcfixer
+Name: CoreText Chinese Fixer
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Fix Chinese font always bold issue in CoreText below iOS 6
+Maintainer: Linus Yang
+Author: Linus Yang
+Section: Tweaks
